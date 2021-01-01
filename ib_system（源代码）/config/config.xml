@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>main</comment>
+<entry key="userName">root</entry>
+<entry key="password">123456</entry>
+<entry key="ip">127.0.0.1</entry>
+<entry key="port">3306</entry>
+<entry key="dbName">ib_system</entry>
+</properties>
